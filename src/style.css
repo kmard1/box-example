@@ -1,0 +1,21 @@
+body {
+  
+}
+.floatBox {
+  height: 50px;
+  width: 50px;
+  background-color: tomato;
+  float: left;
+  padding: 10px;
+  margin-right: 4px;
+  overflow: auto;
+
+}
+
+#clearBox {
+  clear: right;
+  overflow: auto;
+  
+}
+
+
